@@ -1,5 +1,5 @@
 function List(props){
-  return  <ul className={props.className}>{props.childre}</ul>
+  return  <ul className={props.className}>{props.children}</ul>
 }
 
 export default List
